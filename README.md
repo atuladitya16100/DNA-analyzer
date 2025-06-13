@@ -1,6 +1,6 @@
  Codon Usage Analyzer
 
-A featherweight Python GUI app for DNA sequence analysis—crafted using Tkinter, Biopython, and Matplotlib powered entirely by the knowledge I squeezed out of my third semester Biopython course!!!!
+A featherweight Python GUI app for DNA sequence analysis crafted using Tkinter, Biopython, and Matplotlib powered entirely by the knowledge I squeezed out of my third semester Biopython course!!!!
 
 1. Features:
    Input DNA sequences from FASTA or text files
